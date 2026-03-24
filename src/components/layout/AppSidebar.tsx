@@ -65,12 +65,6 @@ const mainNavItems: NavItem[] = [
     icon: Camera,
     description: "Generate product imagery"
   },
-  { 
-    title: "Image to Text", 
-    url: "/content", 
-    icon: FileText,
-    description: "Auto-generate descriptions"
-  },
 ];
 
 const toolsItems: NavItem[] = [
