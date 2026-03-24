@@ -96,7 +96,7 @@ export const apiClient = {
 };
 
 // VTO API Client - Virtual Try-On endpoints
-const VTO_BASE_URL = import.meta.env.VITE_VTO_API_URL ?? "https://vto-jshi.onrender.com";
+const VTO_BASE_URL = import.meta.env.VITE_VTO_API_URL ?? "https://e-commerce-vtryon-cmcca8dnb0ctfqbg.westus2-01.azurewebsites.net";
 
 export const vtoApi = {
   generateTryOn: async (
